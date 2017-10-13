@@ -6,7 +6,7 @@ I also took some of the code in this project (how to display icon fonts and turn
  
 I used examples from the Responsive Images Udacity course to code the picture elements and the srcset attributes above.
  
-Stack Overflow user gilly3 helped me create a more responsive header (lines 17 and 20).
+Stack Overflow user gilly3 helped me create a more responsive header (lines 17 and 20 of index.html).
  
 And Stack Overfow users HB77 and Ahmad helped me figure out how to force the projects section of my page to switch from three columns to two columns (rather than one) when the viewport reaches Bootstrap's 'sm' size (991px).
  
